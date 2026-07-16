@@ -26,15 +26,15 @@ A fully transparent, GitHub-driven leaderboard and submission portal. No databas
 | 🥈 2 | KASBIYA M | 25mx322 | 25 | 1/1 (100%) |
 | 🥉 3 | SABARISH P | 25mx343 | 25 | 1/1 (100%) |
 | 4 | Meyappan R | 25mx326 | 25 | 1/1 (100%) |
-| 5 | Induja E | 25mx315 | 20 | 1/1 (100%) |
-| 6 | Tamilini S | 25mx352 | 20 | 1/1 (100%) |
-| 7 | ROHITHMAHESHWARAN K | 25mx342 | 0 | 0/1 (0%) |
-| 8 | Shanmugappriya K | 25mx223 | 0 | 0/1 (0%) |
+| 5 | Shanmugappriya K | 25mx223 | 23 | 1/1 (100%) |
+| 6 | Induja E | 25mx315 | 20 | 1/1 (100%) |
+| 7 | Tamilini S | 25mx352 | 20 | 1/1 (100%) |
+| 8 | ROHITHMAHESHWARAN K | 25mx342 | 0 | 0/1 (0%) |
 | 9 | Surya Krishna S | 25mx126 | 0 | 0/1 (0%) |
 | 10 | Radhu Dharsan K M | 25mx341 | 0 | 0/1 (0%) |
 
 **🏆 Top Team:** Team 7 (avg: 3.3 pts)
-**Today's submissions:** 6/123 students submitted on 2026-07-16 · **Last updated:** 2026-07-16
+**Today's submissions:** 7/123 students submitted on 2026-07-16 · **Last updated:** 2026-07-17
 <!-- LEADERBOARD:END -->
 
 ---
